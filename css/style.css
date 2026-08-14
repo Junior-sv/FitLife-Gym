@@ -1,0 +1,101 @@
+</> CSS
+
+/* General Website Styling */
+
+body {
+    font-family: Arial, sans- serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+
+header {
+    text-align: center;
+    padding: 30px;
+}
+
+/* Navigation */
+
+nav {
+    text-align: center;
+    padding: 15px;
+}
+
+nav a {
+    text-align: 10px;
+    text-decoration: none;
+}
+
+/* Main Content */
+
+main {
+    padding: 40px;
+    text-align: center;
+}
+
+/* Footer */
+
+footer {
+    text-align: center;
+    padding: 20px;
+}
+
+</> CSS
+
+/* Sitemap */
+
+.sitemap {
+    text-align: center;
+    padding: 50px 20px;
+    min-height: 500px;
+}
+
+.sitemap h2 {
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.sitemap p {
+    margin-bottom: 35px;
+}
+
+.sitemap-box {
+    background-color: #32323243;
+    border: 2px solid #000;
+    padding: 15px 30px;
+    min-width: 130px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.sitemap-box a {
+    color: #000;
+    text-decoration: none;
+}
+
+.sitemap-box a:hover {
+    text-decoration: underline;
+}
+
+.main-page a {
+    background-color: #000;
+}
+
+.main-page a {
+    color: #fff;
+}
+
+.sitemap-line {
+    height: 35px;
+    width: 2px;
+    background-color: #000;
+}
+
+.sitemap-pages {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    flex-wrap: wrap;
+}
+
